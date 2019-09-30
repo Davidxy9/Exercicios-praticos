@@ -1,0 +1,15 @@
+<?php
+
+	$valor = $_REQUEST['valor'];
+	
+	if($valor>0)
+		echo "É maior que zero";
+	
+	else
+		echo "É menor que zero";
+	
+
+
+?>
+
+//recebe e diz se é maior ou menor que zero
