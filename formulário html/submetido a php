@@ -1,0 +1,14 @@
+<html>
+<body>
+
+<h1> Digite suas notas em tecnologias para a internet:</h1><br>
+
+<form action= 'teste.php' method= 'POST'>
+	Seu nome: <input type='text' name='nome'/><br>
+	Sua primeira nota: <input type='text' name='nota1'/><br>	
+	Sua Segunda nota: <input type='text' name='nota2'/><br>
+	<input type='submit' name='Enviar'>
+
+</form>
+</body>
+</html>
