@@ -1,0 +1,11 @@
+<?php
+
+	$estado[0]="Paraíba";
+	$estado[1]="Penambuco";
+	$estado[2]="Ceará";
+	$estado[3]="Rio de Janeiro";
+	$estado[4]="São Paulo";
+	
+	echo $estado[3];
+?>	
+	
