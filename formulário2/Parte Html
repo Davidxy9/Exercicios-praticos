@@ -1,0 +1,10 @@
+<html>
+<body>
+<form action= 'teste.php' method='POST'>
+Digite um valor: <input type='text' name='valor'/>
+<input type='submit' name='Enviar'/>
+</form>
+</body>
+</html>
+
+//envia dados para o php
