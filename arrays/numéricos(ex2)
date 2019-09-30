@@ -1,0 +1,13 @@
+<?php
+
+	$numeros[0]="5";
+	$numeros[1]="6";
+	$numeros[2]="8";
+	$numeros[3]="16";
+	$numeros[4]="32";
+	
+	$soma= $numeros[2] + $numeros[4];
+	
+	echo $soma;
+?>	
+	
